@@ -1,5 +1,10 @@
 # Slides
-Slideshow CSS
+ Slideshow
+ 
+ ## tech 
+ 
+ - `HTML`
+ - `CSS`
 
-
-https://kierepkae.github.io/Slides/.
+# link
+[see it here](https://kierepkae.github.io/Slides/)
